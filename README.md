@@ -84,7 +84,7 @@ VTU-GPT is a custom, lightweight ChatGPT-style chatbot built using **Streamlit**
 
 ---
 ## DEMO
-![Bubble Sort Screenshot](images/SS.png)
+p<img width="1920" height="1080" alt="SS" src="https://github.com/user-attachments/assets/5efb8a9f-22af-4e50-85c3-978f385fc4e3" />
 
 ## 🧠 Powered By
 
