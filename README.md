@@ -83,6 +83,8 @@ VTU-GPT is a custom, lightweight ChatGPT-style chatbot built using **Streamlit**
 - All chats are stored in memory until the app restarts
 
 ---
+## DEMO
+![Bubble Sort Screenshot](images/SS.png)
 
 ## 🧠 Powered By
 
